@@ -1,0 +1,11 @@
+ipykernel
+tiktoken
+langchain
+langchain-openai
+langchain-ollama
+python-dotenv
+pandas
+scikit-learn
+tqdm
+matplotlib
+numpy

@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+data/
+examples.json
+gold_examples.json
+.venv/
+__pycache__/
