@@ -1,7 +1,5 @@
 # TP3 — Prompt Engineering : Classification, Sentiment Analysis
 
-**Étudiante :** Titima — Master AIDC, FST Béni Mellal (Université Sultan Moulay Slimane)
-**Notebook :** `TP3_sentiment_analysis.ipynb` · **Résultats bruts :** `results_micro_f1.csv`
 
 ---
 
